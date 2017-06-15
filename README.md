@@ -1,4 +1,4 @@
-# rad_sync
+# rad_sftp_sync
 Download or Upload file to remote in Vim
 
 Installation
